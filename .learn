@@ -4,4 +4,4 @@ languages:
   - javascript
 resources:
   - 1
-git@github.com:kochoa76/listening-to-dom-nodes-bootcamp-prep-000.git
+git clone <kochoa76/listening-to-dom-nodes-bootcamp-prep-000.git>
